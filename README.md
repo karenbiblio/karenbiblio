@@ -6,8 +6,8 @@
 
 <div>
 	<a href="https://beacons.ai/karenbiblio">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karenbiblio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
-	<img align="right" alt=karen-gif src="https://github.com/karenbiblio/karenbiblio/blob/main/raccoon.gif">
+	<img height="140em" src="https://github-readme-stats.vercel.app/api?username=karenbiblio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
+	<img align="right" alt=raccoon src="https://github.com/karenbiblio/karenbiblio/blob/main/raccoon.gif">
 </div>
 	
 <div sstyle="display: inline_block"><br>
