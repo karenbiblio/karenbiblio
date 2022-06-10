@@ -7,8 +7,9 @@
 <div>
 	<a href="https://beacons.ai/karenbiblio">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karenbiblio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/_>
-</div> 	
-
+	<img align="right" alt=karen-gif src="https://github.com/karenbiblio/karenbiblio/blob/main/raccoon.gif">
+</div>
+	
 <div sstyle="display: inline_block"><br>
    <img align="center" alt="karen-Android" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
    <img align="center" alt="karen-Java" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -21,4 +22,4 @@
   <a href="mailto:karenbiblio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 	
-![Raccoon](https://github.com/karenbiblio/karenbiblio/blob/main/raccoon.gif)
+
