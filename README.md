@@ -1,8 +1,6 @@
 ## Olá! 😊 Sou a Karen 🦝
 
-🦝 Quase me formando em Análise e Desenvolvimento de Sistemas
-
-☕🤖 Estudando Java e Android 
+☕🤖 Estudante curiosa
 
 <div>
 	<a href="https://beacons.ai/karenbiblio">
