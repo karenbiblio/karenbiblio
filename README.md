@@ -1,6 +1,6 @@
 ## Olá! 😊 Sou a Karen 🦝
 
-☕🤖 Estudante curiosa
+☕🤖🐍 Estudante curiosa
 
 <div>
 	<a href="https://beacons.ai/karenbiblio">
