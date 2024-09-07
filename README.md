@@ -1,4 +1,4 @@
-## 🦝☕ Formada em Análise e Desenvolvimento de Sistemas e Biblioteconomia ☕🦝
+## 🦝☕
 
 
 	
